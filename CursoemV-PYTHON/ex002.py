@@ -1,3 +1,0 @@
-print('======EX002======')
-nome = input('Digite o seu nome: ')
-print(f"{nome} é um prazer te conhecer!")

@@ -1,5 +1,0 @@
-nome = str(input('Digite seu nome: ')).strip()
-div = nome.split()
-cont = len(div)
-print(f'Seu primeiro nome: {div[0]}')
-print(f'Seu ultimo nome: {div[cont - 1]}')
